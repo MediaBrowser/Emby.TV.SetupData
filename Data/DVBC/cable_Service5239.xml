@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbCableService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>DVB C France (Numericable Paris SQY V2)</Name>
+  <ShortName>Service5239</ShortName>
+  <Transponders>
+    <TuningInfoDvbC frequency="187125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="195125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="203125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="211125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="219125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="227125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="235125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="243125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="251125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="259125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="267125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="275125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="283125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="291125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="299125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="307125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="315125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="323125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="331125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="339125000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="650375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="658375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="666375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="674375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="682375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="690375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="698375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="706375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="714375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="722375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="730375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="738375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="746375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="754375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="762375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="770375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="778375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="786375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="794375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="802375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="810375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="818375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="826375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="834375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="842375000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+  </Transponders>
+  <CountryCode>FR</CountryCode>
+</DvbCableService>

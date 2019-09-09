@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Initial Tuning Data For Some Frequencies Of For The San Francisco Bay Area</Name>
+  <ShortName>CASFBayArea</ShortName>
+  <Transponders>
+    <TuningInfoAtsc frequency="503000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="551000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="563000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="593000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="623000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="635000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="647000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="659000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="683000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="689000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="701000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="725000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="731000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+  </Transponders>
+  <CountryCode>US</CountryCode>
+</AtscService>

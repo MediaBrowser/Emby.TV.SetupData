@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Location And Provider Nairobi Kenya</Name>
+  <ShortName>Nairobi</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="5060000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="5940000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="6740000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="474000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="506000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="514000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="522000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="530000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="538000000" system="DVB-T2" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="554000000" system="DVB-T2" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="562000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="570000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="578000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="586000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="602000000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="851968000" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="3/4" LPFEC="3/4" bandwidth="8-MHz" transmission="4K" guard="1/32" hierarchy="1" PLP="0" />
+    <TuningInfoDvbT frequency="1007943680" system="DVB-T2" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="1645032704" system="DVB-T2" modulation="16-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="2K" guard="1/32" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>KE</CountryCode>
+</DvbTerrestrialService>

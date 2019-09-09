@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Czestochowa</Name>
+  <ShortName>Czestochowa</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="586000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="618000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="634000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="auto" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>PL</CountryCode>
+</DvbTerrestrialService>

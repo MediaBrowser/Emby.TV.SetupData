@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>US NTSC Center Frequencies</Name>
+  <ShortName>NTSCCenterFrequencies</ShortName>
+  <Transponders>
+    <TuningInfoAtsc frequency="57028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="63028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="69028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="79028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="85028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="177028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="183028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="189028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="195028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="201028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="207028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="213028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="473028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="479028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="485028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="491028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="497028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="503028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="509028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="515028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="521028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="527028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="533028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="539028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="545028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="551028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="557028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="563028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="569028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="575028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="581028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="587028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="593028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="599028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="605028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="611028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="617028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="623028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="629028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="635028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="641028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="647028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="653028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="659028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="665028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="671028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="677028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="683028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="689028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="695028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="701028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="707028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="713028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="719028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="725028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="731028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="737028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="743028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="749028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="755028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="761028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="767028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="773028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="779028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="785028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="791028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="797028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="803028615" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="809000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="815000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="821000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="827000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="833000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="839000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="845000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="851000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="857000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="863000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="869000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="875000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="881000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="887000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+  </Transponders>
+  <CountryCode>US</CountryCode>
+</AtscService>

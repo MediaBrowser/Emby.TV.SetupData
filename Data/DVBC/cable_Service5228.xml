@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbCableService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>DVB C Switzerland (Thurvision)</Name>
+  <ShortName>Service5228</ShortName>
+  <Transponders>
+    <TuningInfoDvbC frequency="458000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="466000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="602000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="610000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="618000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="626000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="634000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="706000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="714000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="722000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="730000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="738000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="746000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="754000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="762000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="770000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="778000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="786000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="794000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="802000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="810000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="818000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="826000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+    <TuningInfoDvbC frequency="834000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6900000" FEC="auto" />
+  </Transponders>
+  <CountryCode>CH</CountryCode>
+</DvbCableService>

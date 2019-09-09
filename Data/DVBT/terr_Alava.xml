@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Channel Names In Use At 2016/10/11</Name>
+  <ShortName>Alava</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="482000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="522000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="570000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="594000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="650000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="666000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="698000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="754000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="777000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>ES</CountryCode>
+</DvbTerrestrialService>

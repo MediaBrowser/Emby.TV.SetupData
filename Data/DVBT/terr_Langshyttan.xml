@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Sweden Långshyttan</Name>
+  <ShortName>Langshyttan</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="746000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>SE</CountryCode>
+</DvbTerrestrialService>

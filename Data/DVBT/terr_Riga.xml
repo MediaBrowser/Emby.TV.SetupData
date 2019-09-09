@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Latvia Riga (lv Riga)</Name>
+  <ShortName>Riga</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="610000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="650000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="658000000" system="DVB-T" modulation="QPSK" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="666000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="690000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="778000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="834000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>LV</CountryCode>
+</DvbTerrestrialService>

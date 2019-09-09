@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Australia / Bendigo (Mt Alexandria Transmitters)</Name>
+  <ShortName>Bendigo</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="205500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="529500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="529500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="534250000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="536500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="536625000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="536625000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="543500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="550500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="555250000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="564500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="564500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="571500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="572500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="576250000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="585625000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="592500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="618250000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="620500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="634500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="655500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="669500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="676500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="690500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="690500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="711500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>AU</CountryCode>
+</DvbTerrestrialService>

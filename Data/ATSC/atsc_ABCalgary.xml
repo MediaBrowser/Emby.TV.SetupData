@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>ABCalgary</Name>
+  <ShortName>ABCalgary</ShortName>
+  <Transponders>
+    <TuningInfoAtsc frequency="515000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="563000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="581000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="617000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="635000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="683000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+  </Transponders>
+  <CountryCode>CA</CountryCode>
+</AtscService>

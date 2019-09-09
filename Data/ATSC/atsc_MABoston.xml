@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Initial Tuning Data For Boston MA</Name>
+  <ShortName>MABoston</ShortName>
+  <Transponders>
+    <TuningInfoAtsc frequency="503000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="509000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="527000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="563000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="569000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="575000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="581000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="623000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="635000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="641000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="647000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+  </Transponders>
+  <CountryCode>US</CountryCode>
+</AtscService>

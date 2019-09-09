@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Australia / Tasmania / Hobart</Name>
+  <ShortName>Hobart</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="184625000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="191500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="205500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="212500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="219500000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="7-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>AU</CountryCode>
+</DvbTerrestrialService>

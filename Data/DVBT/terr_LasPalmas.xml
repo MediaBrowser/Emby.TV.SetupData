@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Funciona Correctamente En Las Palmas De Gran Canaria (25 09 2010)</Name>
+  <ShortName>LasPalmas</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="530000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="562000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="586000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="610000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="658000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="722000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="786000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="826000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="834000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="842000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="850000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="858000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>ES</CountryCode>
+</DvbTerrestrialService>

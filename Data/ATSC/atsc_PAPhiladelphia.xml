@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>US NY State</Name>
+  <ShortName>PAPhiladelphia</ShortName>
+  <Transponders>
+    <TuningInfoAtsc frequency="575000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="581000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="593000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="647000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="713000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="773000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="785000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+    <TuningInfoAtsc frequency="791000000" system="ATSC" modulation="8-VSB" inversion="auto" />
+  </Transponders>
+  <CountryCode>US</CountryCode>
+</AtscService>

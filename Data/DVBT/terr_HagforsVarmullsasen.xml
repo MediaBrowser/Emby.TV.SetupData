@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Sweden Hagfors/Värmullsåsen</Name>
+  <ShortName>HagforsVarmullsasen</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="514000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="522000000" system="DVB-T2" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="578000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="626000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="666000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="762000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="778000000" system="DVB-T2" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+  </Transponders>
+  <CountryCode>SE</CountryCode>
+</DvbTerrestrialService>

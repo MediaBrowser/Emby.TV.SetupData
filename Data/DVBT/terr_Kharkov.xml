@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ukraine Kharkov</Name>
+  <ShortName>Kharkov</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="554000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="3/5" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="586000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="3/5" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="690000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="3/5" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="770000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="3/5" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>UA</CountryCode>
+</DvbTerrestrialService>

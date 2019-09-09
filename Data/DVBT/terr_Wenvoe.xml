@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Wenvoe</Name>
+  <ShortName>Wenvoe</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="554000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/128" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="618167000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="634167000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="642167000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="658000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="666000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="682000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/128" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="714000000" system="DVB-T" modulation="QPSK" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>GB</CountryCode>
+</DvbTerrestrialService>

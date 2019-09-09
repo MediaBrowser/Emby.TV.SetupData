@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>2014 04 18 Antti Palosaari Crope@iki Fi</Name>
+  <ShortName>Posio</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="554000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="618000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+  </Transponders>
+  <CountryCode>FI</CountryCode>
+</DvbTerrestrialService>

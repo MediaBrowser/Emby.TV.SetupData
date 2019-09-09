@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>For ($freq = 527000000; $freq = 599000000; $freq += 6000000) {</Name>
+  <ShortName>Taiwan</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="527000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="533000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="539000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="545000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="551000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="557000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="563000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="569000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="575000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="581000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="587000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="593000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="599000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="none" bandwidth="6-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode />
+</DvbTerrestrialService>

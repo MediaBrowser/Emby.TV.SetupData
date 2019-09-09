@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Sweden Linköping/Vattentornet</Name>
+  <ShortName>LinkopingVattentornet</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="474000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="auto" bandwidth="8-MHz" transmission="32K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="522000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="1/2" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="618000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="auto" bandwidth="8-MHz" transmission="32K" guard="1/16" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="634000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="1/2" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="650000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="auto" bandwidth="8-MHz" transmission="32K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="666000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="1/2" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>SE</CountryCode>
+</DvbTerrestrialService>

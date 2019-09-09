@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Sweden Sollefteå/Hallsta</Name>
+  <ShortName>SollefteaHallsta</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="570000000" system="DVB-T2" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="602000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="626000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="634000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="714000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="762000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/8" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="778000000" system="DVB-T2" modulation="64-QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
+  </Transponders>
+  <CountryCode>SE</CountryCode>
+</DvbTerrestrialService>

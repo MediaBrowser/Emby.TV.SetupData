@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Krakow</Name>
+  <ShortName>Krakow</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="490000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="5/6" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="690000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="5/6" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="698000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="5/6" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="714000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="5/6" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="802000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="5/6" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="818000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="5/6" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>PL</CountryCode>
+</DvbTerrestrialService>
