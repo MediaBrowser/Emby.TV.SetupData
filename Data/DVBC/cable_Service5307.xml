@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DvbCableService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>DVB C Russia (Onlime/HKC Moscow)</Name>
-  <ShortName>Service5307</ShortName>
-  <Transponders>
-    <TuningInfoDvbC frequency="306000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
-  </Transponders>
-  <CountryCode>RU</CountryCode>
-</DvbCableService>
