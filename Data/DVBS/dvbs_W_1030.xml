@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name />
+  <Name>SES-3</Name>
   <ShortName>103.0W</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="3740000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="29270000" polarity="vertical" FEC="7/8" rolloff="auto" pilots="auto">
@@ -308,12 +308,12 @@
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="18367000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="right" FEC="2/3" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="18367000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="left" FEC="2/3" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="18367000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="left" FEC="2/3" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="18367000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="right" FEC="2/3" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
@@ -358,12 +358,12 @@
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="18567000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="right" FEC="2/3" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="18567000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="left" FEC="2/3" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="18567000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="left" FEC="2/3" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="18567000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="30000000" polarity="right" FEC="2/3" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name />
+  <Name>NSS-9</Name>
   <ShortName>177.0W</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="3646000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="28000000" polarity="right" FEC="3/4" rolloff="auto" pilots="auto">
@@ -47,5 +47,5 @@
   <PositionKey>-1770</PositionKey>
   <WesternOffset xsi:nil="true" />
   <EasternOffset xsi:nil="true" />
-  <IsCBand>false</IsCBand>
+  <IsCBand>true</IsCBand>
 </Satellite>

@@ -228,12 +228,12 @@
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11830000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11830000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11830000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11830000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
@@ -313,12 +313,12 @@
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11905000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11905000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11905000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11905000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3979000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>

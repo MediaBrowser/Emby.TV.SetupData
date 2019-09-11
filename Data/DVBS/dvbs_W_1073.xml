@@ -168,12 +168,12 @@
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11683000000" system="DVB-S" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="20500000" polarity="horizontal" FEC="5/6" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11683000000" system="DVB-S" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="22000000" polarity="vertical" FEC="5/6" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11683000000" system="DVB-S" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="22000000" polarity="vertical" FEC="5/6" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11683000000" system="DVB-S" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="20500000" polarity="horizontal" FEC="5/6" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>

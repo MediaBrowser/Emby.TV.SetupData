@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name />
+  <Name>Yahsat 1A</Name>
   <ShortName>52.5E</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="11747000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="27500000" polarity="horizontal" FEC="8/9" rolloff="auto" pilots="auto">
