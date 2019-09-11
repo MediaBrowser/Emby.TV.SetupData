@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>US Cable Center Frequencies</Name>
+  <Name>US Cable HRC Center Frequencies</Name>
   <ShortName>CableHRCCenterFrequenciesQAM256</ShortName>
   <Transponders>
     <TuningInfoAtsc frequency="55752700" system="DVB-C/B" modulation="256-QAM" inversion="auto" />

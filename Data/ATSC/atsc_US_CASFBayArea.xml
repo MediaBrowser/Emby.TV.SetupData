@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Initial Tuning Data For Some Frequencies Of For The San Francisco Bay Area</Name>
+  <Name>San Francisco Bay Area</Name>
   <ShortName>CASFBayArea</ShortName>
   <Transponders>
     <TuningInfoAtsc frequency="503000000" system="ATSC" modulation="8-VSB" inversion="auto" />

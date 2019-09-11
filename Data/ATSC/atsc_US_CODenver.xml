@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Main Channels In Denver</Name>
+  <Name>Denver</Name>
   <ShortName>CODenver</ShortName>
   <Transponders>
     <TuningInfoAtsc frequency="189028615" system="ATSC" modulation="8-VSB" inversion="auto" />
