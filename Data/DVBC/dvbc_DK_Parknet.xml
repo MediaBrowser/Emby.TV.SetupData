@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbCableService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Parknet</Name>
+  <ShortName>Parknet</ShortName>
+  <Transponders>
+    <TuningInfoDvbC frequency="314000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="322000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="330000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="338000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="378000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="394000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="402000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="418000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="434000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="490000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="498000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="506000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="594000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="602000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="610000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="618000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="762000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="794000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+  </Transponders>
+  <CountryCode>DK</CountryCode>
+</DvbCableService>

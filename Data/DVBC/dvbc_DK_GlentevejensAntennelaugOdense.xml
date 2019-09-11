@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbCableService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Glentevejens Antennelaug Odense</Name>
+  <ShortName>GlentevejensAntennelaugOdense</ShortName>
+  <Transponders>
+    <TuningInfoDvbC frequency="130000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="138000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="146000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="154000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="226000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="246000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="254000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="378000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="386000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="394000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="402000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="410000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="418000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="426000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="434000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="434000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="442000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="602000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="610000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="618000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="770000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+    <TuningInfoDvbC frequency="778000000" system="DVB-C" modulation="64-QAM" inversion="auto" symbolrate="6875000" FEC="auto" />
+  </Transponders>
+  <CountryCode>DK</CountryCode>
+</DvbCableService>
