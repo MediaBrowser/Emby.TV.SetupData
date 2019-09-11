@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>62E</Name>
+  <Name />
   <ShortName>62E</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="10996000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="4000000" polarity="horizontal" FEC="7/8" rolloff="auto" pilots="auto">
