@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name />
+  <Name>ST-2</Name>
   <ShortName>88.0E</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="3629000000" system="DVB-S2" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="24700000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
@@ -53,12 +53,12 @@
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11609000000" system="DVB-S2" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="43978000" polarity="vertical" FEC="2/3" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11609000000" system="DVB-S2" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="43978000" polarity="horizontal" FEC="3/5" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>
     </TuningInfoDvbS>
-    <TuningInfoDvbS frequency="11609000000" system="DVB-S2" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="43978000" polarity="horizontal" FEC="3/5" rolloff="auto" pilots="auto">
+    <TuningInfoDvbS frequency="11609000000" system="DVB-S2" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="43978000" polarity="vertical" FEC="2/3" rolloff="auto" pilots="auto">
       <LnbLow>0</LnbLow>
       <LnbHigh>0</LnbHigh>
       <LnbSwitch>0</LnbSwitch>

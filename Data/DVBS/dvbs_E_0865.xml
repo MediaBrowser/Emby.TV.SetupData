@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name />
+  <Name>KazSat-2</Name>
   <ShortName>86.5E</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="11495000000" system="DVB-S2" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="8750000" polarity="vertical" FEC="8/9" rolloff="auto" pilots="auto">

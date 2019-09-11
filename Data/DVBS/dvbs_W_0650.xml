@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name />
+  <Name>Brasilsat-B2</Name>
   <ShortName>65.0W</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="3631000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2605000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">

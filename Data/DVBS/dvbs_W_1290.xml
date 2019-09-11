@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>SES-15, Ciel-2</Name>
+  <Name>SES-15, Ciel-2, Intelsat-7</Name>
   <ShortName>129.0W</ShortName>
   <Transponders>
     <TuningInfoDvbS frequency="12224000000" system="DVB-S" modulation="8-PSK" inversion="auto" satnumber="0" symbolrate="21500000" polarity="right" FEC="2/3" rolloff="auto" pilots="auto">
