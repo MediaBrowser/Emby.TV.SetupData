@@ -167,5 +167,5 @@
   <PositionKey>-870</PositionKey>
   <WesternOffset xsi:nil="true" />
   <EasternOffset xsi:nil="true" />
-  <IsCBand>false</IsCBand>
+  <IsCBand>true</IsCBand>
 </Satellite>
