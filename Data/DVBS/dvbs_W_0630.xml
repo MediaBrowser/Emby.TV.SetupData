@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Satellite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name />
+  <ShortName>63.0W</ShortName>
+  <Transponders>
+    <TuningInfoDvbS frequency="11600000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="13744000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11640000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="18100000" polarity="vertical" FEC="7/8" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11706000000" system="DVB-S2" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2278000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11710000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3200000" polarity="vertical" FEC="2/3" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11722000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2963000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11726000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3333000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11732000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2222000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11736000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2963000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11795000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="4444000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11805000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="6666000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11827000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3200000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11844000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="5348000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11850000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2280000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11871000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2000000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11888000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3330000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11905000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="2362000" polarity="vertical" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="11958000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="3255000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+    <TuningInfoDvbS frequency="12162000000" system="DVB-S" modulation="QPSK" inversion="auto" satnumber="0" symbolrate="13021000" polarity="horizontal" FEC="3/4" rolloff="auto" pilots="auto">
+      <LnbLow>0</LnbLow>
+      <LnbHigh>0</LnbHigh>
+      <LnbSwitch>0</LnbSwitch>
+    </TuningInfoDvbS>
+  </Transponders>
+  <PositionKey>-630</PositionKey>
+  <WesternOffset xsi:nil="true" />
+  <EasternOffset xsi:nil="true" />
+  <IsCBand>false</IsCBand>
+</Satellite>
