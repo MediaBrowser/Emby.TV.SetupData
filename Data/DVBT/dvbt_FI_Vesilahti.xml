@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>2014 03 08 Olli Salonen Olli Salonen@iki Fi</Name>
+  <ShortName>Vesilahti</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="198500000" system="DVB-T2" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="7-MHz" transmission="32K" guard="19/256" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="212500000" system="DVB-T2" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="7-MHz" transmission="32K" guard="19/256" hierarchy="auto" PLP="0" />
+    <TuningInfoDvbT frequency="226500000" system="DVB-T2" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="7-MHz" transmission="32K" guard="19/256" hierarchy="auto" PLP="0" />
+  </Transponders>
+  <CountryCode>FI</CountryCode>
+</DvbTerrestrialService>

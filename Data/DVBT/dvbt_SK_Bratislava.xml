@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DvbTerrestrialService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Bratislava (Bratislava Slovak Republic)</Name>
+  <ShortName>Bratislava</ShortName>
+  <Transponders>
+    <TuningInfoDvbT frequency="522000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="746000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="1/2" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="754000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/4" hierarchy="none" PLP="0" />
+  </Transponders>
+  <CountryCode>SK</CountryCode>
+</DvbTerrestrialService>
