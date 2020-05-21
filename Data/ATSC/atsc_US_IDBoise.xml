@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Boise ID USA</Name>
+  <Name>Boise ID</Name>
   <ShortName>IDBoise</ShortName>
   <Transponders>
     <TuningInfoAtsc frequency="195000000" system="ATSC" modulation="8-VSB" inversion="auto" />
