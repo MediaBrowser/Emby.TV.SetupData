@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>ATSC Old Frequencies (ch2-51)</Name>
-  <ShortName>ATSCCenterFrequencies8VSBOld</ShortName>
+  <Name>ATSC Canada Current Frequencies (ch2-69)</Name>
+  <ShortName>ATSCCACenterFrequencies8VSBCurrent</ShortName>
   <Transponders>
     <TuningInfoAtsc frequency="57000000" system="ATSC" modulation="8-VSB" inversion="auto" />
     <TuningInfoAtsc frequency="63000000" system="ATSC" modulation="8-VSB" inversion="auto" />
@@ -54,5 +54,5 @@
     <TuningInfoAtsc frequency="689000000" system="ATSC" modulation="8-VSB" inversion="auto" />
     <TuningInfoAtsc frequency="695000000" system="ATSC" modulation="8-VSB" inversion="auto" />
   </Transponders>
-  <CountryCode>US</CountryCode>
+  <CountryCode>CA</CountryCode>
 </AtscService>
