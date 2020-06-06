@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>ATSC US All Frequencies (ch2-50)</Name>
+  <Name>ATSC US Deprecated Frequencies (ch2-50)</Name>
   <ShortName>ATSCCenterFrequencies8VSBAll</ShortName>
   <Transponders>
 	<TuningInfoAtsc frequency="57000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch2-->

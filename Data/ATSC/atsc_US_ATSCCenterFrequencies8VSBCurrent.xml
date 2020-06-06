@@ -1,14 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AtscService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>ATSC US Current Frequencies (ch7-36)</Name>
+  <Name>ATSC US Frequencies (ch2-36)</Name>
   <ShortName>ATSCCenterFrequencies8VSBCurrent</ShortName>
   <Transponders>
+	<TuningInfoAtsc frequency="57000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch2-->
+	<TuningInfoAtsc frequency="63000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch3-->
+	<TuningInfoAtsc frequency="69000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch4-->
+	<TuningInfoAtsc frequency="79000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch5-->
+	<TuningInfoAtsc frequency="85000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch6-->
     <TuningInfoAtsc frequency="177000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch7-->
     <TuningInfoAtsc frequency="183000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch8-->
     <TuningInfoAtsc frequency="189000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch9-->
     <TuningInfoAtsc frequency="195000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch10-->
     <TuningInfoAtsc frequency="201000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch11-->
-    <TuningInfoAtsc frequency="207000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch12-->
+    <TuningenfoAtsc frequency="207000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch12-->
     <TuningInfoAtsc frequency="213000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch13-->
     <TuningInfoAtsc frequency="473000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch14-->
     <TuningInfoAtsc frequency="479000000" system="ATSC" modulation="8-VSB" inversion="auto" /><!--ch15-->
