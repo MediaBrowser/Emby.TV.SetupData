@@ -3,9 +3,9 @@
   <Name>SuttonColdfield</Name>
   <ShortName>SuttonColdfield</ShortName>
   <Transponders>
-    <TuningInfoDvbT frequency="570000000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/128" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="570000000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="auto" PLP="0" />
     <TuningInfoDvbT frequency="618167000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
-    <TuningInfoDvbT frequency="626167000" system="DVB-T2" modulation="256-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="32K" guard="1/128" hierarchy="none" PLP="0" />
+    <TuningInfoDvbT frequency="626167000" system="DVB-T" modulation="QAM" inversion="auto" HPFEC="auto" LPFEC="auto" bandwidth="8-MHz" transmission="auto" guard="auto" hierarchy="none" PLP="0" />
     <TuningInfoDvbT frequency="642000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
     <TuningInfoDvbT frequency="650000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="2/3" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
     <TuningInfoDvbT frequency="666000000" system="DVB-T" modulation="64-QAM" inversion="auto" HPFEC="3/4" LPFEC="none" bandwidth="8-MHz" transmission="8K" guard="1/32" hierarchy="none" PLP="0" />
